@@ -15,3 +15,5 @@ Here,I have used 2 unsupervised learning techniques.
 
 1. K-means clustering algorithm to find clusters of similar food items.
 2. Apriori algorithm to find out which items might be purchased together.
+
+Language used: R
